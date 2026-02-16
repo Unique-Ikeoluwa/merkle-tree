@@ -85,5 +85,4 @@ const isValid = verifyMerkleProof(
   merkleRoot
 );
 
-console.log("Transaction valid?", isValid);
-
+console.log("Is the transaction valid?", isValid);
